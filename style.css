@@ -161,6 +161,10 @@ button,
   background: #fff;
   color: #111;
 }
+.chip-tg {
+  background: #2AABEE;
+  color: #fff;
+}
 .chip-buy {
   background: var(--gold);
   color: #111;
